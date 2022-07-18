@@ -1,1 +1,1 @@
-# Daily-Quiz-
+# Daily-Quiz
